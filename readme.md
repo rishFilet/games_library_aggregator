@@ -34,3 +34,4 @@ A Python script that exports your Steam game library into a CSV file, including 
 ## Usage
 
 Run the script:
+`pipenv shell; python3 main.py`
